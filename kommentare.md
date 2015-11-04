@@ -1,4 +1,5 @@
 # Einleitung
+Der ultimative Test
 Im folgenden werden 5 Artikel vorgestellt, die auf unterschiedlichsten Ebenen den Erfolg von Online-Seminaren evaluieren. Es stehen verschiedene Themengebiete als auch verschiedene Altersgruppen im Mittelpunkt. Allen Artikeln gemein ist, dass der Lernerfolg mit quantitativen Methoden ermittelt wird. Was genau unter Lernerfolg zu verstehen ist, wird in den jeweiligen Studien definiert und hier beschrieben.
 
 
