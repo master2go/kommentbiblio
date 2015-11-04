@@ -8,11 +8,6 @@ Im folgenden werden 5 Artikel vorgestellt, die auf unterschiedlichsten Ebenen de
 
 **\fullcite{hohenberg2009erfolgreiches}**
 
-\fullcite{Crossley2015}
-
-\parencite{Stocker2009}
-
-\fullcite{Stocker2009}
 
 Gegenstand der Untersuchung ist eine dreijährige MTA-Ausbildung der Fachrichtung Radiologie. Die Ausbildung geht über drei Jahre und wird zeitgleich als Präsenzveranstaltung (Vollzeitausbildung) und als Blended-Learning-Ansatz (Berufsbegleitend, alle 4-6 Wochen Präsenzveranstaltung, ansonsten Online-Lerninhalte) angeboten. Untersucht wurde der Zeitraum 2004 - 2007.
 Die *Forschungsfrage* lautet: Gibt es zwischen den Absolventen des Blended-Learning-Ansatzes und den Absolventen der Präsenzveranstaltung unterschiedliche Prüfungsleistungen? Die *Stichprobe:* insgesamt haben an der Weiterbildung 30 Personen teilgenommen, davon 20 Teilnehmer in der Blended-Learning Gruppe und 10 Teilnehmer in der Präsenzgruppe. Die Teilnehmer wurden nicht zufällig auf die Gruppen verteilt, sondern nach Wunsch. In der Blended-Learning-Gruppe gab es einen männlichen Teilnehmer, ansonsten waren alle Teilnehmer weiblich. Der Mittelwert des Alters lag in der Blended-Learning-Gruppe bei 43 Jahren und in der Präsenzgruppe bei 28 Jahren. Auch andere Parameter, wie Schulabschluss, Familienstand, Kinder im Haushalt, Berufliche Bildung sind sehr unausgewogen, was die Vergleichbarkeit der beiden Gruppen einschränkt.
@@ -26,19 +21,53 @@ Insgesamt konnten die Teilnehmenden des Blended-Learning-Ansatzes mindestens gle
 
 **\fullcite{lindemann2006multimedia}**
 
-In dieser Untersuchung wurde der Online-Distance-Learning-Kurs VIRT.UM, im Hinblick auf den Zusammenhang von Lernstiltyp, Multimedianutzung und Lernerfolg evaluiert. VIRT.UM ist ein Online-Kurs der für Studierende der Umweltwissenschaften an der Universität Zürich angeboten wird. Die naturwissenschaftlichen Grundkenntnisse können hier online per Selbsstudium erworben werden. Alle Texte dieses Kurses sind sowol online als auch als Buch erhältich, während die Übungen, Fragen, Multimediainhalte, Abbildungen usw. nur Online verfügbar sind. Es wurden folgende *Forschungsfragen* gestellt:
+In dieser Untersuchung wurde der Online-Distance-Learning-Kurs VIRT.UM, im Hinblick auf den Zusammenhang von Lernstiltyp, Multimedianutzung und Lernerfolg evaluiert. VIRT.UM ist ein Online-Kurs der für Studierende der Umweltwissenschaften an der Universität Zürich angeboten wird. Die naturwissenschaftlichen Grundkenntnisse können hier online per Selbststudium erworben werden. Alle Texte dieses Kurses sind sowohl online als auch als Buch erhältich, während die Übungen, Fragen, Multimediainhalte, Abbildungen usw. nur Online verfügbar sind. Die Inhalte von VIRT.UM entsprechen zu 60% denen des Buches und 40% gehen über die Inhalte der Lerntexte hinaus. Es wurden folgende *Forschungsfragen* gestellt:
 
 1. Wählen Studierende selektiv unter den ihnen angebotenen Multimediatypen aus?
 2. Falls ja hängt diese Auswahl vom jeweiligen Lernstiltyp ab?
-3. Beeinflusst die Auswahl von Multimediaty und der jeweilige Lernstiltyp den Lernerfolg der Studierenden?
+3. Beeinflusst die Auswahl von Multimediatyp und der jeweilige Lernstiltyp den Lernerfolg der Studierenden?
 
-\fullcite{mentzer2007two}
-
-\fullcite{Sussman2010}
+Das *Versuchsdesign* kann wie folgt beschreiebn werden: Insgesamt haben an der Evaluation 75 Studenten teilgenommen, sie wurden zufällig in zwei gleich große Gruppen aufgeteilt. Zu Beginn wurde bei allen Teilnehmern mittels eines Tests die Vorkenntnisse ermittelt.  Eine Gruppe erarbeite sich den Lernstoff online auf VIRT.UM, die andere Gruppe durch eine herkömmliche Vorlesung. Der Wissenserwerb wurde dann mit einem Test ermittelt. Danach wurden die Gruppen getauscht, nach dieser Phase wurde ebenfalls der Wissenerwerb per Test ermittelt.  
 
 
 
-fullcite{Edwards2013}
+**\fullcite{Fischer2014a}**
+
+Die vorliegende Studie ist Teil einer Dissertation, die sich mit Entwicklung und Beforschung von interaktiven Lernmaterialien für mathematische Brückenkurse befasst. Für bestimmte Studiengänge werden an der Universität Kassel Vorkurse zur Mathematik angeboten. Die Kurse werden von Studienanfängern unterschiedlichster Fachrichtungen besucht. Ziel der Dissertation war einerseits die Entwicklung von interaktivem Lernmaterial und andererseits die Evaluation der angebotenen Kurse. Das Design der Studie basiert auf dem Angebots-Nutzungs-Modell der Unterrichtswirksamkeit. Dieses Modell geht davon aus, dass Unterricht als ein Angebot betrachtet wird, dass von den Lernenden genutzt werden kann. In welcher Intensität dieses Angebot angenommen wird ist von verschieden Faktoren (Lernpotenial, Kontext, Unterrichtsform usw.) abhängig \parencite{Helmke2008}. Das Versuchsdesign sah wie folgt aus: der mathematische Vorkurs konnte entweder als Präsenzveranstaltung (P-Kurs) oder als Blended-Learning-Variante (E-Kurs) absolviert werden. Es nahmen an der Studie etwa 1000 Studienanfänger teil. Entsprechend der Wahl der Studenten für den E- oder P-Kurs wurden die zwei Versuchsgruppen gebildet: von den 1000 Teilnehmern entschieden sich ca 290 Studierende für den E-Kurs.
+Für die im vorligenden Artikel dargestellten Ergebnisse diente als Datenbasis ein elektronischer Eingangs- und Ausgangstest in moodle. Am Eingangstest nahmen N=756 Teilnehmer statt, am Ausgangstest N=349. Außerdem fanden noch 3 Onlinebefragungen zu unterschiedlichen Zeitpunkten statt: Eingangsbefragung mit N=586 Teilnehmer, Zwischentest mit N=400 und Abschlussbefragung mit N=350. Untersucht wurde, ob die Ergebnisse der Tests in Abhängigkeit von der Kursvariante signifikante Unterschiede aufweisen. Die Untersuchung basiert auf dem Modell der Unterrichtswirksamkeit von Helmke.
+Ausgewählte Ergebnisse dieser Studie zeigte, dass die Wahl der Kursvariante hochsignifikanten abhängig war von der Art der Hochschulzugangsberechtigung (allgemeines Abi oder Fachabi), sowie von der Mathenote im Abitur. Um die Ergebnisse des Abschlusstestes zu erklären wurde ein allgemeines lineares Modell erstellt. Dies zeigte den oben beschriebenen starken Einfluss der Ausgangsvorrausetzungen, aber auch einen schwach signifikanten Einfluss der Kursvariante. D.h. Der Vergleich der Abschlusstestergebnisse von Studenten mit gleichen Ergebnissen im Eingangstest ergab einen schwach signifikanten Unterschied: Die Teilnehmer des E-Kurse hatten im Mittel 4,8 \% mehr Punkte.
+Die E-Kurs Teilnehmer hatten die Möglichkeit elektronische Tests zu bearbeiten. Dies wurde zwar von Verhälnismäßig wenigen Teilnehmern genutzt, dennoch zeigte sich eine signifikante Abhängigkeit: Je mehr Tests von den jeweiligen Studenten bearbeitet wurden, desto besser war das Abschneiden im Abschlusstest. Die E-Kurs Teilnehmer, die alle Tests bearbeitet hatten, hatten in der Abschlusspüfung im Mittel 14,4 \% mehr Punkte. (Verglichen wurden Teilnehmer mit gleichen Eingagstestergebnissen)  
+Weitere Ergebnisse zeigen, dass es bezüglich der Nutzung der zur Verfügung gestellten Lernmaterialen Unterschiede in Abhängigkeit der Studienrichtung gab. Im Rahmen der hier durchgeführten Evaluation konnte dafür keine Erklärung gefunden werden.
+Es treten bei dieser statistischen Untersuchung etliche Störeinflüsse ein, die aber allesamt behandelt werden, so dass die Ergebnisse als valide angesehen werden können. Auch die Objektivität ist gegeben, da der Eingangs- und Ausgangstest elektronisch durchgeführt wurden und beispielsweise nicht von verschiedenen Prüfern abhängig ist. Hervorzuheben ist auch die große Anzahl der Versuchsteilnehmer, was die Aussagekraft der Ergebnisse unterstreicht. Die sehr differenzierte Ausgestaltung der Tests auf der Grundlage von bewährten Methoden (Unterrichtswirksamkeits-Modell) führt zu einer hohen Reproduzierbarkeit der Studie.
+
+
+
+
+**\fullcite{Nistor2005a}**
+
+In dieser Studie wird die Akzeptanz, der Lernprozess und der Lernerfolg problemorientierter virtueller Seminare mittel einer summativen Wirkungsanalyse untersucht. Folgende zwei Seminare sind Gegenstand der Wirkungsanalyse:
+
+* "Gestaltung und Evaluation virtueller Lernumgebungen"
+
+
+* "Einführung in das Wissensmanagement aus pädagogisch-psychologischer Sicht"
+
+Der Aufbau der virtuellen Seminare orientiert sich an einer konstruktivistischen Auffassung von Lernen, nach welcher für die Gestalung der Lernumgebung bestimmte Punkte erfüllt sein müssen: Authenzität, Multiple Kontexte und Perspektiven, Soziale Lernarrangements, Informations- Konstruktionsangebot, Instruktionale Anleitung und Unterstützung
+
+
+
+
+**\fullcite{mentzer2007two}**
+
+
+**\fullcite{Sussman2010}**
+
+
+**\fullcite{Crossley2015}**
+
+
+
+**\fullcite{Edwards2013}**
 
 
 # Fazit
