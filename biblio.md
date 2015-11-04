@@ -38,21 +38,26 @@ Für die im vorligenden Artikel dargestellten Ergebnisse diente als Datenbasis e
 Ausgewählte Ergebnisse dieser Studie zeigte, dass die Wahl der Kursvariante hochsignifikanten abhängig war von der Art der Hochschulzugangsberechtigung (allgemeines Abi oder Fachabi), sowie von der Mathenote im Abitur. Um die Ergebnisse des Abschlusstestes zu erklären wurde ein allgemeines lineares Modell erstellt. Dies zeigte den oben beschriebenen starken Einfluss der Ausgangsvorrausetzungen, aber auch einen schwach signifikanten Einfluss der Kursvariante. D.h. Der Vergleich der Abschlusstestergebnisse von Studenten mit gleichen Ergebnissen im Eingangstest ergab einen schwach signifikanten Unterschied: Die Teilnehmer des E-Kurse hatten im Mittel 4,8 \% mehr Punkte.
 Die E-Kurs Teilnehmer hatten die Möglichkeit elektronische Tests zu bearbeiten. Dies wurde zwar von Verhälnismäßig wenigen Teilnehmern genutzt, dennoch zeigte sich eine signifikante Abhängigkeit: Je mehr Tests von den jeweiligen Studenten bearbeitet wurden, desto besser war das Abschneiden im Abschlusstest. Die E-Kurs Teilnehmer, die alle Tests bearbeitet hatten, hatten in der Abschlusspüfung im Mittel 14,4 \% mehr Punkte. (Verglichen wurden Teilnehmer mit gleichen Eingagstestergebnissen)  
 Weitere Ergebnisse zeigen, dass es bezüglich der Nutzung der zur Verfügung gestellten Lernmaterialen Unterschiede in Abhängigkeit der Studienrichtung gab. Im Rahmen der hier durchgeführten Evaluation konnte dafür keine Erklärung gefunden werden.
-Es treten bei dieser statistischen Untersuchung etliche Störeinflüsse ein, die aber allesamt behandelt werden, so dass die Ergebnisse als valide angesehen werden können. Auch die Objektivität ist gegeben, da der Eingangs- und Ausgangstest elektronisch durchgeführt wurden und beispielsweise nicht von verschiedenen Prüfern abhängig ist. Hervorzuheben ist auch die große Anzahl der Versuchsteilnehmer, was die Aussagekraft der Ergebnisse unterstreicht. Die sehr differenzierte Ausgestaltung der Tests auf der Grundlage von bewährten Methoden (Unterrichtswirksamkeits-Modell) führt zu einer hohen Reproduzierbarkeit der Studie.
+Es treten bei dieser statistischen Untersuchung etliche Störeinflüsse ein, die aber entsprechend behandelt werden, so dass die Ergebnisse als valide angesehen werden können. Auch die Objektivität ist gegeben, da der Eingangs- und Ausgangstest elektronisch durchgeführt wurden und beispielsweise nicht von verschiedenen Prüfern abhängig ist. Hervorzuheben ist auch die große Anzahl der Versuchsteilnehmer, was die Aussagekraft der Ergebnisse unterstreicht. Die sehr differenzierte Ausgestaltung der Tests auf der Grundlage von bewährten Methoden (Unterrichtswirksamkeits-Modell) führt zu einer hohen Reproduzierbarkeit der Studie.
 
 
 
 
 **\fullcite{Nistor2005a}**
 
-In dieser Studie wird die Akzeptanz, der Lernprozess und der Lernerfolg problemorientierter virtueller Seminare mittel einer summativen Wirkungsanalyse untersucht. Folgende zwei Seminare sind Gegenstand der Wirkungsanalyse:
+In dieser Studie wird die Akzeptanz, der Lernprozess und der Lernerfolg problemorientierter virtueller Seminare mittels einer summativen Wirkungsanalyse untersucht. Folgende zwei Seminare sind Gegenstand der Wirkungsanalyse:
 
 * "Gestaltung und Evaluation virtueller Lernumgebungen"
-
+Dieses Hauptseminar ist für Studierende aus den Fächern Pädagogik und Psychologie konzipiert. Ziel dieses Seminars Wissenerwerbs zur Gestaltung konstruktivistischer Lernumgebungen und die Evaluation virtueller Lernumgebungen. Außerdem soll ein Fragebogen entwickelt und eine Qualitätsanalyse durchgeführt werden. Das Seminar geht über 13 Wochen und ist modular aufgebaut.
 
 * "Einführung in das Wissensmanagement aus pädagogisch-psychologischer Sicht"
 
+Dieses Hauptseminar ist konzipiert für Studenten der Fächer Pädagogik, Psychologie, Informatik oder Betriebswirtschaftslehre. Die Studenten sollen Grundlagen von Wissensmanagement kennen lernen, sowie einen Wissensmanagement-Fall analysieren und systematisch bearbeiten können. Das Seminar geht über 10 Wochen und ist ebenfalls modular aufgebaut.
+
+Die Evaluation der Seminare erfolgte in den Dimensionen Akzeptanz, Lernprozess und Lernerfolg.
+
 Der Aufbau der virtuellen Seminare orientiert sich an einer konstruktivistischen Auffassung von Lernen, nach welcher für die Gestalung der Lernumgebung bestimmte Punkte erfüllt sein müssen: Authenzität, Multiple Kontexte und Perspektiven, Soziale Lernarrangements, Informations- Konstruktionsangebot, Instruktionale Anleitung und Unterstützung
+
 
 
 
