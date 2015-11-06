@@ -22,7 +22,7 @@ Im folgenden werden 5 Artikel vorgestellt, die auf unterschiedlichsten Ebenen de
 
 \pagebreak
 
- 1. \fullcite{hohenberg2009erfolgreiches}**
+ 1. **\fullcite{hohenberg2009erfolgreiches}**
 
 
 Gegenstand der Untersuchung ist eine dreijährige MTA-Ausbildung der Fachrichtung Radiologie. Die Ausbildung geht über drei Jahre und wird zeitgleich als Präsenzveranstaltung (Vollzeitausbildung) und als Blended-Learning-Ansatz (Berufsbegleitend, alle 4-6 Wochen Präsenzveranstaltung, On\-line-Lern\-inhalte) angeboten. Untersucht wurde der Zeitraum 2004 - 2007.
@@ -39,7 +39,7 @@ Insgesamt konnten die Teilnehmenden des Blended-Learning-Ansatzes mindestens gle
 
 
 
-2. \fullcite{Fischer2014a}
+2. **\fullcite{Fischer2014a}**
 
 Die vorliegende Studie ist Teil einer Dissertation, die sich mit Entwicklung und Beforschung von interaktiven Lernmaterialien für mathematische Brückenkurse befasst. Für bestimmte Studiengänge werden an der Universität Kassel Vorkurse zur Mathematik angeboten. Die Kurse werden von Studienanfänger_innen unterschiedlichster Fachrichtungen besucht. Ziel der Dissertation war einerseits die Entwicklung von interaktivem Lernmaterial und andererseits die Evaluation der angebotenen Kurse. Das Design der Studie basiert auf dem Angebots-Nutzungs-Modell der Unterrichtswirksamkeit. Dieses Modell geht davon aus, dass Unterricht als ein Angebot betrachtet wird, dass von den Lernenden genutzt werden kann. In welcher Intensität dieses Angebot angenommen wird ist von verschieden Faktoren (Lernpotenial, Kontext, Unterrichtsform usw.) abhängig \parencite{Helmke2008}. Das *Versuchsdesign* sah wie folgt aus: der mathematische Vorkurs konnte entweder als Präsenzveranstaltung (P-Kurs) oder als Blended-Learning-Variante (E-Kurs) absolviert werden. Es nahmen an der Studie etwa 1000 Studienanfänger_innen teil. Entsprechend der Wahl der Studierenden für den E- oder P-Kurs wurden die zwei Versuchsgruppen gebildet: von den 1000 Teilnehmer_innen entschieden sich etwa 290 Studierende für den E-Kurs.
 Für die im vorliegenden Artikel dargestellten Ergebnisse diente als Datenbasis ein elektronischer Eingangs- und Ausgangstest in Moodle. Am Eingangstest nahmen N=756 Teilnehmer_innen teil, am Ausgangstest N=349. Außerdem fanden noch 3 Onlinebefragungen zu unterschiedlichen Zeitpunkten statt: Eingangsbefragung mit N=586 Teilnehmer_innen, Zwischentest mit N=400 und Abschlussbefragung mit N=350. Untersucht wurde, ob die Ergebnisse der Tests in Abhängigkeit von der Kursvariante signifikante Unterschiede aufweisen.
@@ -50,7 +50,7 @@ Weitere Ergebnisse zeigen, dass es bezüglich der Nutzung der zur Verfügung ges
 
 
 
-3. \fullcite{Nistor2005a}
+3. **\fullcite{Nistor2005a}**
 
 *Versuchsbeschreibung*:
 In dieser Studie wird die Akzeptanz, der Lernprozess und der Lernerfolg problemorientierter virtueller Seminare mittels einer summativen Wirkungsanalyse untersucht. Folgende zwei Seminare sind Gegenstand der Wirkungsanalyse:
@@ -80,7 +80,7 @@ Der subjektive **Lernerfolg** lag bei den verschiedenen Items in beiden Seminare
 
 
 
-4.\fullcite{mentzer2007two}
+4. **\fullcite{mentzer2007two}**
 
 *Inhalt:* Die Studie von \textcite{mentzer2007two} vergleicht Lernergebnisse, Zufriedenheit und Art der Interaktion zwischen einem Face-to Face (f2f) Lernsetting und einem Web-based-Kurs. Die Untersuchung wurde durchgeführt bei Studierenden der Studienrichtung "Early Childhood".
 *Methode:* Die Kurseilnehmer_innen wurden zufällig auf zwei Gruppen verteilt, eine Gruppe erarbeitete sich die Kursinhalte Face-to-Face, die andere Gruppe online. Insgesamt haben 42 Studierenden an dem Experiment teilgenommen, N=24 in der Kontrollgruppe (f2f) und N=18 in der Experimentalgruppe (Web-Based-Kurs). Der Kurs der f2f findet an bestimmten Wochentagen statt, während die Online-Gruppe immer und überall lernen kann. Die Teilnehmer_innen der Online-Gruppe müssen mind. zweimal pro Woche an Live-Chats teilnehmen, um zu gewährleisten, dass sie mit dem Stoff ebenso viel Zeit verbringen wie die f2f Teilnehmer_innen. Zeitplan und Inhalte waren in beiden Gruppen gleich.
@@ -94,12 +94,12 @@ Fazit: Die Untersuchung zeigt, dass die Face-to-Face Studenten_innen mit ihrem K
 
 
 
-5.\fullcite{Edwards2013}
+5. **\fullcite{Edwards2013}**
 
 46 Schüler_innen der 6. Klasse nahmen im Fach Mathematik an einer Untersuchung teil, die klären sollte, ob durch Online-Lernen oder Face-to Face lernen bessere Testergebnisse erzielt werden können.
 Das *Versuchsaufbau* entsprach einem quasiexperimentellem, ausbalancierten Design mit Pre- und Posttest. D.h. Zu einem gegebenen Zeitpunkt lernte eine Gruppe online eine andere Face-to-Face und dann wurden die Gruppen getauscht. Es wurden 10 Themengebiete erarbeitet: jede Teilnehmer_in erarbeitete je 5 Themen online und 5 im Präsenzunterricht. In jedem Semester wurden von alen Schüler_innen Pre- und Posttests absolviert. Um möglichst gleiche Bedingungen zu gewährleisten, unterrichtete in beiden Lernformen der gleichen Lehrer. Auch die Online-Lenphasen fanden im Klassenzimmer statt, es gab keine Hausaufgaben. Unterschiedliche, in der Literatur beschriebene Materialien wie Videos, Spiele, Text usw. kamen zum Einsatz.
 *Ablauf* Der traditionelle Face-to-Face Unterricht begann immer mit Input und Erklärung des Lehrers (Frontalunterricht), danach wurden Fragen gestellt und Aufgaben bearbeitet. Der Lehrer unterstützte wo notwendig.
-Die Online-Stunde begann mit dem Holen des Laptops  und dem Aufsuchen der entsprechenden Website. Die Seite stellte den Stoff der gesamten Einheit zur Verfügung, möglich war, alles der Reihe nach abzuarbeiten oder nach Wunsch. Die Schüler_innen konnten nur per online chat miteinander kommunizieren. An den Leher gestellte Fragen im Chat  wurden sofort beantwortet. Alle Lösungen wurden per email, durch die Website oder per Chat eingereicht.
+Die Online-Stunde begann mit dem Holen des Laptops  und dem Aufsuchen der entsprechenden Website. Die Seite stellte den Stoff der gesamten Einheit zur Verfügung, möglich war, alles der Reihe nach abzuarbeiten oder nach Wunsch. Die Schüler_innen konnten nur per online chat miteinander kommunizieren. An den Leher gestellte Fragen im Chat wurden sofort beantwortet. Alle Lösungen wurden per email, durch die Website oder per Chat eingereicht.
 *Auswertung* Die Testergebnisse wurden mittels eines t-Testes themenweise miteinander verglichen.
 *Ergebnisse* Bei der Untersuchung des Lernzuwachses (Gain Scores) gab es bei einem der 10 Themen einen signifikanten Unterschied. Dieser ist vermutlich auf einen starken Unterschied im Pretest zurückzuführen und es ist demnach fraglich, ob er reproduzierbar ist. Die Ergebnisse des Abschlusstestes (Test Scores) zeigen für keines der Themen einen signifikanten Unterschied.
 Auch alle Ergebnisse zusammengenommen zeigten keine  signifikanten Unterschiede. Als weitere Differenzierung wurde noch nach dem TOST-Ansatz (two one-sided t-tests) auf möglicherweise doch vorhandene Unterschiede getestet. Dafür wurde durch den Lehrer angegeben bis zu welcher Punktdifferenz ein Ergebnis noch als gleich angesehen werden kann. Die Zone der Ungleichheit betrug demnach $\pm2.5$ Punkte. Auch dieser Test ergab keine signifikanten Unterschiede.
@@ -108,5 +108,5 @@ Die gleichen Testergebnisse und die Ausgewogenheit von Vor- und Nachteilen zeigt
 
 # Fazit
 
-Es wurden in der vorliegenden Arbeit fünf Studien zum Thema Online-Lernen bearbeitet. Vier Studien (\cite{hohenberg2009erfolgreiches}, \cite{Fischer2014a}, \cite{mentzer2007two}, \cite{Edwards2013}) stellten direkte Vergleiche zwischen online und Face-to-Face lernen an. Gemessen wurde der Erfolg an Tests: in keiner der vier Untersuchungen führte das Online-Lernen zu schlechteren Ergebnissen. Im Gegenteil: die Testergebnisse waren mindestens gleich gut oder sogar besser. Selbst junge Lerner, lernten ohne direkten Input durch einen Lehrer genauso gut, wie im Frontalunterricht. In zwei Untersuchungen wurde auch die Akzeptanz der unterschiedlichen Kurse ermittelt, sie war einmal sehr hoch (\cite{Nistor2005a}) und einmal weniger hoch \cite{mentzer2007two} als im Präsenzkurs.
+Es wurden in der vorliegenden Arbeit fünf Studien zum Thema Online-Lernen bearbeitet. Vier Studien (\parencite{hohenberg2009erfolgreiches}, \parencite{Fischer2014a}, \parencite{mentzer2007two}, \parencite{Edwards2013}) stellten direkte Vergleiche zwischen online und Face-to-Face lernen an. Gemessen wurde der Erfolg an Tests: in keiner der vier Untersuchungen führte das Online-Lernen zu schlechteren Ergebnissen. Im Gegenteil: die Testergebnisse waren mindestens gleich gut oder sogar besser. Selbst junge Lerner, lernten ohne direkten Input durch einen Lehrer genauso gut, wie im Frontalunterricht. In zwei Untersuchungen wurde auch die Akzeptanz der unterschiedlichen Kurse ermittelt, sie war einmal sehr hoch (\parencite{Nistor2005a}) und einmal weniger hoch (\parencite{mentzer2007two}) als im Präsenzkurs.
 Die unterschiedlichen Ausgangslagen Teilnehmer, Fächer, Versuchsdurchführungen und Auswertungen lassen nur schwer einen Schluss zu, können aber zumindest tendenziell die hohe Wirksamkeit von Online-Seminaren aufzeigen. Gleichzeitig wird die Schwierigkeit solcher Vergleiche, aufgrund der gegebenen menschlichen "Störfaktoren" aufgezeigt und verdeutlicht, wie durchdacht Versuchsaufbau und Auswertung sein müssen, um alle Lernparameter zu erfassen und fundierte Aussagen treffen zu können.
